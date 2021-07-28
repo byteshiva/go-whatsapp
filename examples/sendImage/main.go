@@ -34,7 +34,7 @@ func main() {
 
 	msg := whatsapp.ImageMessage{
 		Info: whatsapp.MessageInfo{
-			RemoteJid: "number@s.whatsapp.net",
+			RemoteJid: "916381062029@s.whatsapp.net",
 		},
 		Type:    "image/jpeg",
 		Caption: "Hello Gopher!",
